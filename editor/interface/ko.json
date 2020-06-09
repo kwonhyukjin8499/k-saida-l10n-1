@@ -447,6 +447,8 @@
     "gui.extension.ev3.connectingMessage": "연결 중입니다. EV3의 pin이 1234로 설정되었는지 확인하세요.",
     "gui.extension.boost.description": "Bring robotic creations to life.",
     "gui.extension.boost.connectingMessage": "Connecting",
+    "gui.extension.bigdata.name": "빅데이터",
+    "gui.extension.bigdata.description": "다양한 형태의 정보들을 자신이 원하는대로 가공해보세요.",
     "gui.extension.machinelearning.name": "머신 러닝",
     "gui.extension.machinelearning.description": "기본 수학 블록을 사용하여 자신만의 머신 러닝 모델을 만들어보세요.",
     "gui.extension.deeplearning.name": "딥 러닝",
